@@ -1,0 +1,7 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="160" fill="#0d1117"/>
+  <rect x="0" y="0" width="900" height="4" fill="#FFA116"/>
+  <rect x="0" y="156" width="900" height="4" fill="#FFA116"/>
+  <text x="450" y="82" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="4" fill="#e6edf3">ANUBHAV <tspan fill="#FFA116">GUPTA</tspan></text>
+  <text x="450" y="118" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="13" letter-spacing="3" fill="#FFA116">FULL STACK · DSA · OPEN SOURCE · HE/HIM</text>
+</svg>
