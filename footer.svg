@@ -1,0 +1,6 @@
+<svg width="900" height="50" viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="50" fill="#0d1117"/>
+  <rect x="0" y="0" width="900" height="4" fill="#FFA116"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="13" letter-spacing="2" fill="#FFA116">sudo make-me-good-developer — still waiting</text>
+  <rect x="0" y="46" width="900" height="4" fill="#FFA116"/>
+</svg>
