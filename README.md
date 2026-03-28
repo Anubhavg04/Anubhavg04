@@ -1,144 +1,187 @@
+<!-- ═══════════════════════════════════════════════════════════
+     ANUBHAV GUPTA — GitHub Profile README
+     Bold & Modern | Recruiter-Ready | Open to Work
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Header: ANUBHAV white + GUPTA amber + ruled lines — fully inline -->
-<img src="https://raw.githubusercontent.com/Anubhavg04/Anubhavg04/main/header.svg">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anubhav%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Open%20to%20Work&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=Full+Stack+Dev+who+breaks+prod+professionally+%F0%9F%94%A5;499+LeetCode+problems+%7C+0+regrets+%E2%9A%A1;git+push+--force+%F0%9F%99%8F+%7C+it%27s+fine%2C+probably;I+wrote+the+bug+AND+the+fix.+You%27re+welcome.;sudo+make-me-a-good-developer+...+still+waiting" />
+<a href="mailto:theanubhav333@gmail.com">
+  <img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Click%20to%20Connect-brightgreen?style=for-the-badge&labelColor=0d1117" />
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anubhavg04&color=FFA116&style=flat-square&label=👁️+PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Anubhavg04?label=⭐+Followers&style=flat-square&color=FFA116&labelColor=0d1117)](https://github.com/Anubhavg04)
-&nbsp;
-![LeetCode](https://img.shields.io/badge/⚡_LeetCode-499_solved-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+tools+devs+actually+love+%F0%9F%9B%A0%EF%B8%8F;Next.js+%7C+React+Native+%7C+MERN+%7C+AI+%F0%9F%A4%96;Shipping+products%2C+not+just+code+%F0%9F%9A%80;Open+to+Work+%E2%80%94+Let%27s+build+something+great!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🧠 About Me
 
-```typescript
-const dev: Developer = {
-  name:     "Anubhav Gupta",
-  handle:   "@Anubhavg04",
-  base:     "Kuthond, Uttar Pradesh 🇮🇳",
-  stack:    ["React", "Next.js", "Node.js", "Express", "MongoDB", "SQL"],
-  grinding: ["DSA", "System Design", "React Native", "TypeScript"],
-  status:   "Building things that may or may not work in prod",
-  funFact:  "I'm funny if you're comfortable with me 😄",
-  motto:    () => "Code. Break. Fix. Ship. Repeat. 🔁"
-};
-
-// still waiting for sudo make-me-good-developer to execute...
+```yaml
+name:       Anubhav Gupta
+location:   India 🇮🇳
+status:     Open to Work ✅
+currently:  Learning React Native
+building:   Dev tools · Food tech · AI hiring platforms
+contact:    theanubhav333@gmail.com
+fun_fact:   I'm funny once I'm comfortable — ask my teammates 😄
 ```
 
+I'm a **Software Engineer** who loves shipping real products — not just side projects that collect dust.
+From **AI-powered hiring platforms** to **developer productivity tools**, I build things that solve actual problems.
+Clean code, great UX, and fast iteration — that's my stack beyond the tech stack.
+
 ---
 
-## `$ ls ./tech-stack`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ━━━ 🌐 Frontend ━━━
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark&perline=7" />
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ━━━ ⚙️ Backend & Database ━━━
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" />
-
-### ━━━ 🔧 Tools ━━━
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5" />
+### 🔧 Tools & Auth
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## `$ cat ./stats.json`
+## 🚀 Featured Projects
+
+### 🛠️ DevTrack — *Every hour you study, counts.*
+
+> A **learning journal built for developers** — log sessions, track topics, build streaks, and see a full year of growth in one view.
+
+[![DevTrack Preview](https://devtrackapp-orcin.vercel.app/og-image.png)](https://devtrackapp-orcin.vercel.app/)
+
+> *👆 Click the preview to visit the live app*
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+**Key Features:** 🔥 Streak tracking &nbsp;|&nbsp; 📊 Activity heatmap &nbsp;|&nbsp; 🎯 Goal setting &nbsp;|&nbsp; 📚 Topic management
+
+[![Repo](https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/anubhavg04/devtrack)
+[![Live](https://img.shields.io/badge/🔗%20Live%20Demo-00C7B7?style=for-the-badge)](https://devtrackapp-orcin.vercel.app/)
+
+---
+
+### 🤖 HireGenAI — *Stop Getting Rejected. Start Getting Interviews.*
+
+> An **AI-powered hiring platform** — built for ATS + recruiter review. Smart resume matching, faster screening, better outcomes.
+
+[![HireGenAI Preview](https://hiregeai.netlify.app/og-image.png)](https://hiregeai.netlify.app/)
+
+> *👆 Click the preview to visit the live app*
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Powered-FF6B00?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ATS%20Optimized-FF6B00?style=flat-square"/>
+</p>
+
+**Key Features:** 🤖 AI job matching &nbsp;|&nbsp; 📄 ATS optimization &nbsp;|&nbsp; ⚡ Smart screening &nbsp;|&nbsp; 🎯 Recruiter-ready profiles
+
+[![Repo](https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/anubhavg04/hiregenai)
+[![Live](https://img.shields.io/badge/🔗%20Live%20Demo-FF6B00?style=for-the-badge)](https://hiregeai.netlify.app/)
+
+---
+
+### 🍔 QuickEat — *Food, fast.*
+
+> A full-stack **food delivery app** with restaurant listings, cart management, and seamless checkout — built on the MERN stack.
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+**Key Features:** 🗺️ Restaurant listings &nbsp;|&nbsp; 🛒 Cart & checkout &nbsp;|&nbsp; 📦 Order management
+
+[![Repo](https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/anubhavg04/quickeat)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anubhavg04&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=FFA116&icon_color=FFA116&text_color=c9d1d9&border_radius=10" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Anubhavg04&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=FFA116&fire=FF6B6B&currStreakLabel=FFA116&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=anubhavg04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavg04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavg04&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=FFA116&text_color=c9d1d9&border_radius=10&langs_count=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavg04&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## `$ leetcode --stats Anubhavg04`
+## 📈 Contribution Activity
 
 <div align="center">
-
-[![LeetCode](https://leetcard.jacoblin.cool/Anubhavg04?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10)](https://leetcode.com/Anubhavg04)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavg04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
-## `$ git log --graph --contributions`
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavg04&theme=react-dark&hide_border=true&area=true&area_color=FFA116&line=FFA116&point=FFFFFF&bg_color=0d1117&color=8b949e)](https://github.com/Anubhavg04)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=anubhavg04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
 </div>
 
 ---
 
-## `$ cat ./currently-learning.log`
-
-```bash
-$ npm install --save-dev future-skills
-
-  ✔ react-native        → taking the web skills mobile 📱
-  ✔ system-design       → because someday someone will ask me to scale 🏗️
-  ✔ typescript          → so I can argue about types at 2am 🔷
-  ⟳ open-source         → contributing to things smarter than me 🌍
-
-# progress: [████████░░░░] 67% ... still going ▌
-```
-
----
-
-## `$ cat ./contact.md`
+## 🌐 Let's Connect
 
 <div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anubhavg1204)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-gupta)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anubhav_gupta16)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theanubhav333@gmail.com)
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────┐
-│  > let's build something together 🚀             │
-│  > or just argue about tabs vs spaces. either.   │
-└──────────────────────────────────────────────────┘
-```
+![Profile Views](https://komarev.com/ghpvc/?username=anubhavg04&label=Profile+Views&color=58A6FF&style=for-the-badge)
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40Dev__code__04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/Dev_code_04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhav%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/anubhav-gupta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-499%20solved%20⚡-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/Anubhavg04)
-[![Instagram](https://img.shields.io/badge/Instagram-%40anubhav__gupta16-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/anubhav_gupta16)
-[![Gmail](https://img.shields.io/badge/Gmail-anubhavgup21-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:anubhavgup21@gmail.com)
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer: amber ruled lines + tagline — fully inline -->
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgOTAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNTAiIGZpbGw9IiMwZDExMTciLz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQiIGZpbGw9IiNGRkExMTYiLz48dGV4dCB4PSI0NTAiIHk9IjMyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ291cmllciBOZXcsQ291cmllcixtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGxldHRlci1zcGFjaW5nPSIyIiBmaWxsPSIjRkZBMTE2Ij5zdWRvIG1ha2UtbWUtZ29vZC1kZXZlbG9wZXIg4oCUIHN0aWxsIHdhaXRpbmc8L3RleHQ+PHJlY3QgeD0iMCIgeT0iNDYiIHdpZHRoPSI5MDAiIGhlaWdodD0iNCIgZmlsbD0iI0ZGQTExNiIvPjwvc3ZnPgo=" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
