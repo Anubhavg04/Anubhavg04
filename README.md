@@ -157,13 +157,6 @@ Clean code, great UX, and fast iteration — that's my stack beyond the tech sta
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavg04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavg04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
-</div>
 
 ---
 
